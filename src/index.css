@@ -1,0 +1,15 @@
+@import "tailwindcss";
+@import "flowbite/src/themes/default";
+@plugin "flowbite/plugin";
+@source "../node_modules/flowbite";
+
+body {
+    font-family: cursive;
+    background-color: #f4f2ee;
+}
+
+.active{
+    background-color: black;
+    color: white;
+}
+
