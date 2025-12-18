@@ -64,7 +64,8 @@ Follow these steps to run the project locally:
 Open your terminal and run:
 
 ```bash
-git clone [https://github.com/Omar-Ahmed39/Recipe.git](https://github.com/Omar-Ahmed39/Recipe.git)```
+git clone [https://github.com/Omar-Ahmed39/Recipe.git](https://github.com/Omar-Ahmed39/Recipe.git)
+```
 
 ### 2. Navigate to the project directory
 ```bash
